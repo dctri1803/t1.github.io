@@ -87,8 +87,12 @@
         display: block;
     }
 
+    #content .members-list {
+        display: flex;
+        flex-direction: column;
+    }
+    
     #content .member-item {
-        width: 100%;
         padding: 34px 0;
     }
 
