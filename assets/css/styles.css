@@ -242,7 +242,7 @@ html{
     margin-top: 47px;
     display: flex;
     justify-content: space-between;
-    padding-left: 18px;
+    margin-left: 53px;
 }
 
 #content .member-item {
